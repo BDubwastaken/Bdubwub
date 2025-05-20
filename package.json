@@ -1,5 +1,5 @@
 {
-  "name": "TheUnblockedHub",
+  "name": "Bdubwascool",
   "version": "2.4.3",
   "type": "module",
   "engines": {
@@ -25,3 +25,4 @@
     "prettier": "3.2.5"
   }
 }
+npm install expo --save-dev
